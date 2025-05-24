@@ -4,4 +4,4 @@ this is one of the challenges from [devchallenges](https://devchallenges.io/) th
 
 ## screenshot
 
-![screenshot]("./Screenshot.png")
+![screenshot](./Screenshot.png)
